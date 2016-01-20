@@ -1,11 +1,11 @@
 # Site settings
 title: Woofle's Blog
 description: "A blog"
-url: "http://www.jacoporabolini.com/emerald"
+url: "http://woofle.github.io"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Will Huo"
+  email: "will.huo628@gmail.com"
+  url: "http://woofle.github.io"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
